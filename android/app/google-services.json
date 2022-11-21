@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10703335907",
+    "firebase_url": "https://jasaharum-93a12.firebaseio.com",
+    "project_id": "jasaharum-93a12",
+    "storage_bucket": "jasaharum-93a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10703335907:android:720f862157a8a65fa8f0d6",
+        "android_client_info": {
+          "package_name": "com.example.jasaharum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10703335907-3vep5b08qqsgn8vv913l01rajl6kqamu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8wTrsvTsvUvaF_4xBh1BFocNQJQ_iR68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10703335907-3vep5b08qqsgn8vv913l01rajl6kqamu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
